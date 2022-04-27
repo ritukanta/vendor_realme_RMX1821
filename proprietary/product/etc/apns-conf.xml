@@ -14585,8 +14585,8 @@
       mnc="01"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
     <apn carrier="IMS"
@@ -14613,8 +14613,8 @@
       mnc="02"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -14643,8 +14643,8 @@
       mnc="03"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -14743,8 +14743,8 @@
       mcc="404"
       mnc="06"
       apn="airtelgprs.com"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
       type="default,supl"
   />
 
@@ -14829,8 +14829,8 @@
       mcc="404"
       mnc="10"
       apn="airtelgprs.com"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
       type="default,supl"
   />
 
@@ -14864,8 +14864,8 @@
       mnc="11"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -14935,8 +14935,8 @@
       mnc="13"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -15003,8 +15003,8 @@
       mnc="15"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -15031,8 +15031,8 @@
       mnc="16"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -15157,8 +15157,8 @@
       mnc="206"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Vodafone MMS"
@@ -15319,8 +15319,8 @@
       mnc="27"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -15384,8 +15384,8 @@
       mnc="30"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -15412,8 +15412,8 @@
       mnc="31"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -15568,8 +15568,8 @@
       mnc="40"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -15635,8 +15635,8 @@
       mnc="43"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -15710,8 +15710,8 @@
       mnc="45"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -15743,8 +15743,8 @@
       mnc="46"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -15771,8 +15771,8 @@
       mnc="49"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4V"
   />
 
   <apn carrier="Airtel MMS"
@@ -16033,8 +16033,8 @@
       mnc="60"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -16199,8 +16199,8 @@
       mnc="70"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -16502,8 +16502,8 @@
       mnc="84"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -16622,8 +16622,8 @@
       mnc="88"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -16687,8 +16687,8 @@
       mnc="90"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -16731,8 +16731,8 @@
       mnc="92"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -16760,8 +16760,8 @@
       mnc="93"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -16789,8 +16789,8 @@
       mnc="94"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -16818,8 +16818,8 @@
       mnc="95"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -16847,8 +16847,8 @@
       mnc="96"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -16876,8 +16876,8 @@
       mnc="97"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -16905,8 +16905,8 @@
       mnc="98"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -17707,8 +17707,8 @@
       mnc="51"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -17736,8 +17736,8 @@
       mnc="52"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4V"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -17765,8 +17765,8 @@
       mnc="53"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -17794,8 +17794,8 @@
       mnc="54"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -17823,8 +17823,8 @@
       mnc="55"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -17852,8 +17852,8 @@
       mnc="56"
       apn="airtelgprs.com"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Airtel MMS"
@@ -17885,8 +17885,8 @@
       mnc="66"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -17916,8 +17916,8 @@
       mnc="67"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -17985,8 +17985,8 @@
       mnc="750"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -18016,8 +18016,8 @@
       mnc="751"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -18047,8 +18047,8 @@
       mnc="752"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -18078,8 +18078,8 @@
       mnc="753"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -18109,8 +18109,8 @@
       mnc="754"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -18140,8 +18140,8 @@
       mnc="755"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -18171,8 +18171,8 @@
       mnc="756"
       apn="www"
       type="default,supl"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="IMS"
@@ -18862,8 +18862,8 @@
       mnc="840"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
    />
 
   <apn carrier="Ims"
@@ -19300,8 +19300,8 @@
       mnc="854"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19320,8 +19320,8 @@
       mnc="855"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
 <!-- #ifdef ODM_WT_EDIT -->
@@ -19343,8 +19343,8 @@
       mnc="856"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
 <!-- #ifdef ODM_WT_EDIT -->
@@ -19366,8 +19366,8 @@
       mnc="857"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
 <!-- #ifdef ODM_WT_EDIT -->
@@ -19389,8 +19389,8 @@
       mnc="858"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
 <!-- #ifdef ODM_WT_EDIT -->
@@ -19412,8 +19412,8 @@
       mnc="859"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19432,8 +19432,8 @@
       mnc="860"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19452,8 +19452,8 @@
       mnc="861"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19472,8 +19472,8 @@
       mnc="862"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19492,8 +19492,8 @@
       mnc="863"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19512,8 +19512,8 @@
       mnc="864"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19532,8 +19532,8 @@
       mnc="865"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19552,8 +19552,8 @@
       mnc="866"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19572,8 +19572,8 @@
       mnc="867"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19592,8 +19592,8 @@
       mnc="868"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19612,8 +19612,8 @@
       mnc="869"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
 <apn carrier="Ims"
@@ -19632,8 +19632,8 @@
       mnc="870"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19652,8 +19652,8 @@
       mnc="871"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19672,8 +19672,8 @@
       mnc="872"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19692,8 +19692,8 @@
       mnc="873"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
   <apn carrier="Ims"
@@ -19712,8 +19712,8 @@
       mnc="874"
       apn="Jionet"
       type="default,supl,xcap"
-      protocol="IPV4V6"
-      roaming_protocol="IPV4V6"
+      protocol="IPV4"
+      roaming_protocol="IPV4"
   />
 
 <!-- #ifdef ODM_WT_EDIT -->
