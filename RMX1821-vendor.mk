@@ -6,7 +6,6 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/realme/RMX1821
 
 PRODUCT_COPY_FILES += \
-    vendor/realme/RMX1821/proprietary/bin/chargeonlymode:$(TARGET_COPY_OUT_SYSTEM)/bin/chargeonlymode \
     vendor/realme/RMX1821/proprietary/product/etc/apns-conf.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-conf.xml \
     vendor/realme/RMX1821/proprietary/lib/libem_support_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libem_support_jni.so \
     vendor/realme/RMX1821/proprietary/lib64/libem_support_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libem_support_jni.so \
